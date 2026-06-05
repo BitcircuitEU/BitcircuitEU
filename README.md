@@ -45,7 +45,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BitcircuitEU/BitcircuitEU/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github.com/BitcircuitEU/BitcircuitEU/blob/main/github-metrics.svg?raw=true" />
 </p>
 
 ---
