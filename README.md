@@ -42,22 +42,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### Discord Media Player
-
-Stream audio and video content directly to Discord using Node.js and TypeScript.
-
-### Twitch Viewer Bot
-
-Educational Twitch automation project built with TypeScript, Express and Socket.IO.
-
-### Open Source Experiments
-
-Various tools, automation projects and utility applications.
-
----
-
 ## 📊 GitHub Metrics
 
 <p align="center">
