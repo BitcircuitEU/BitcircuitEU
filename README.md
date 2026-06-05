@@ -1,39 +1,78 @@
+<h1 align="center">👋 Hi, I'm Niklas</h1>
+
 <p align="center">
- 👋 Hey, Welcome to my GitHub page.
-</p>
-<p align="center">
-  👨‍💻 I am Bitcircuit!
+  Full-Stack Developer • TypeScript • C# • Open Source
 </p>
 
 <p align="center">
-  <a href="" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/687038390931161161" />
+  <a href="https://github.com/BitcircuitEU">
+    <img src="https://komarev.com/ghpvc/?username=bitcircuiteu&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BitcircuitEU" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BitcircuitEU&show_icons=true&theme=cobalt" alt="BitcircuitEU's github stats" />
-  </a>
-<p>
+---
+
+## 🚀 About Me
+
+* 💻 Passionate software developer
+* ⚡ Working primarily with TypeScript and C#
+* 🌐 Building web applications, automation tools and open-source projects
+* 🔧 Interested in DevOps, Docker and GitHub Actions
+* 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![C%23-512BD4?logo=csharp\&logoColor=white](https://img.shields.io/badge/C%23-512BD4?logo=csharp\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+
+### Frameworks & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions\&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### Discord Media Player
+
+Stream audio and video content directly to Discord using Node.js and TypeScript.
+
+### Twitch Viewer Bot
+
+Educational Twitch automation project built with TypeScript, Express and Socket.IO.
+
+### Open Source Experiments
+
+Various tools, automation projects and utility applications.
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/BitcircuitEU" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitcircuitEU&hide=html,css,Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="BitcircuitEU's github stats" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BitcircuitEU/BitcircuitEU/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/BitcircuitEU/BitcircuitEU/master/github-metrics.svg" />
-</p>
+---
 
+## 📫 Connect
+
+* GitHub: https://github.com/BitcircuitEU
+* Website: https://bitcircuit.eu
+
+---
 
 <p align="center">
-  <a href="https://u8views.com/github/BitcircuitEU"><img src="https://u8views.com/api/v1/github/profiles/176839680/views/day-week-month-total-count.svg"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BitcircuitEU" target="_blank">
-  <img align="center" src="https://komarev.com/ghpvc/?username=bitcircuiteu" alt="BitcircuitEU's github views" />
-  </a>
+  Thanks for visiting 👋
 </p>
