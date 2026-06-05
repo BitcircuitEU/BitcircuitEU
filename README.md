@@ -69,7 +69,7 @@ Various tools, automation projects and utility applications.
 ## 📫 Connect
 
 * GitHub: https://github.com/BitcircuitEU
-* Website: https://bitcircuit.eu
+* Website: https://terhorst.io
 
 ---
 
