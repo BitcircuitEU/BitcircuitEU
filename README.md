@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Niklas</h1>
 
 <p align="center">
-  Full-Stack Developer • TypeScript • C# • Open Source
+  IT/OT Professional & Tool Coder
 </p>
 
 <p align="center">
